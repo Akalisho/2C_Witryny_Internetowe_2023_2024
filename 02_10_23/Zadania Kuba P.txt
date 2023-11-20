@@ -1,0 +1,66 @@
+Zadanie 1:
+		Wersja HTML:		Element:		Zamiennik:
+		4.01			APPLET			OBJECT
+		4.01			BASEFONT		CSS: color, fontfamily, font-size
+		4.01			CENTER			CSS: text-align
+		4.01			DIR			UL
+		4.01			FONT			CSS: color, font-family, font-size
+		4.01			ISINDEX			INPUT
+		4.01			MENU			UL
+		4.01			S			CSS: text-decoration
+		4.01			STRIKE			CSS: text-decoration
+		4.01			U			CSS: text-decoration
+	Zadanie 2:
+		- W języku HTML 5 usunięto przestarzałe instrukcje: <basefront>, <big>, <center>, <strike>, <frame>, <frameset>, <tt>.
+		– W miejsce usuniętych dyrektyw wprowadzono nowe instrukcje: <article>, <header>, <details>, <figure>, <nav>, <section>, <mark>, <time>, <audio>,<video>, <source>, <bdo>, <rp>.
+		- Zniesiono zasadę obowiązkowego zamykania znaczników (pomocne dla zapominalskich webmasterów) i pustych komend.
+	Zadanie 3:
+		HMTL 4.0 - https://www.w3.org/TR/1998/REC-html40-19980424/
+		HTML 4.01 - https://www.w3.org/TR/html401/
+		HTML 5.0 - https://www.kurshtml.edu.pl/html/html5.html
+Zadanie 1:
+	Pojęcie:			Opis i tematyka:							Adres URL:
+
+	Witryna internetowa		Witryna internetowa to zbiór stron, adresów URL 			https://ks.pl/slownik/co-to-jest-witryna-internetowa
+					i podstron będących częścią wspólnej domeny.
+					 Witryna internetowa, nazywana również serwisem internetowym,
+					 zazwyczaj jest zlokalizowana w ramach jednego serwera.
+
+	Portal internetowy		Witryna internetowa zawierająca usługi stanowiące „bramę” do Internetu.		https://pl.wikipedia.org/wiki/Portal_internetowy
+					Serwis informacyjny zazwyczaj poszerzony jest o różnorodne funkcje internetowe. 
+					Portale często oferują darmowe usługi, np. pocztę elektroniczną, czy hosting.
+	
+	Sklep internetowy		Sklep internetowy to rodzaj serwisu z katalogiem produktów lub usług,		https://www.sempire.pl/sklep-internetowy-definicja-rodzaje-funkcjonalnosci.html
+					który umożliwia prowadzenie sprzedaży oraz dokonywanie zakupów
+					za pośrednictwem Internetu.
+
+	Blog internetowy		dynamiczne, regularnie aktualizowane strony internetowe,		https://pl.wix.com/blog/artykul/co-to-jest-blog
+					które dostarczają istotnych informacji na dany temat.
+
+	Wideoblog			rodzaj bloga internetowego, którego zasadniczą treść stanowią pliki filmowe	https://pl.wikipedia.org/wiki/Wideoblog
+					(VODcast) publikowane przez autora w kolejności chronologicznej. 
+					Pliki udostępniane są do odtwarzania w technologii video-streamingu lub do pobrania
+					na komputer użytkownika – gościa i widza wideobloga.
+Zadanie 2:
+	Ta strona to wortal internetowy. 
+	Strona głównie poświęcona jest podręcznikami do szkół i ofertą kształcenia dla nauczycieli.
+	Strona jest poświęcona jednej tematyce.
+Zadanie 3:
+	</znacznik> tekst </znacznik> - Błędna
+	<atrybut = "wartość "  > znacznik </atrybut> - Poprawna
+Test:
+	Zadanie 1
+	Odp: A
+
+	Zadanie 2
+	Odp: C
+
+	Zadanie 3
+	Odp: D
+
+	Zadanie 4
+	Odp: A
+
+	Zadanie 5
+	Odp: A
+
