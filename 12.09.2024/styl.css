@@ -1,0 +1,32 @@
+.body {
+    background-color: rgb(173, 168, 86);
+}
+
+.witam {
+    font-size: xx-large;
+    text-align: center;
+    color: white;
+    background-color: rgb(52, 207, 38);
+    border: 8px solid whitesmoke;
+}
+
+.text {
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(33, 97, 128);
+    font-style: oblique;
+    font-variant: small-caps;
+}
+
+.info {
+    background-color: rgb(182, 119, 26);
+    line-height: 2,5;
+    border: 8px solid black;
+    color: black;
+    font-size: x-large;
+}
+
+.dziewiećjedenaście {
+    color: rgb(0, 5, 5);
+    font-size: small;
+}
