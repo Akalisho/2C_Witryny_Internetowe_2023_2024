@@ -1,10 +1,10 @@
 let zmienna;
 
-zmienna = prompt("Podaj liczbę pierwszą: ");
+zmienna = Number(prompt("Podaj liczbę pierwszą: "));
 
 let zmienna2;
 
-zmienna2 = prompt("Podaj liczbę drugą: ");
+zmienna2 = Number(prompt("Podaj liczbę drugą: "));
 document.write("Dodawanie: ");
 document.write(zmienna + zmienna2);
 document.write("Odejmowanie: ");
