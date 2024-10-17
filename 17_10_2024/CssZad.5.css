@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Sekcja header */
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0, 128, 255, 0.8);
+    color: white;
+}
+
+/* Ogólny styl dla sekcji */
+section {
+    padding: 40px;
+    margin: 20px auto;
+    max-width: 800px;
+    height: 300px;  /* Aby lepiej widzieć tło */
+    color: white;
+    text-align: center;
+}
+
+/* Sekcja z tłem w lewym górnym rogu */
+.background-left-top {
+    background: url('obrazek2.jpg') no-repeat left top;
+    background-size: cover;
+    background-color: rgba(255, 0, 0, 0.6);
+}
+
+/* Sekcja z tłem w centrum */
+.background-center {
+    background: url('obrazek2.jpg') no-repeat center;
+    background-size: cover;
+    background-color: rgba(0, 255, 0, 0.6);
+}
+
+/* Sekcja z tłem w prawym dolnym rogu */
+.background-right-bottom {
+    background: url('obrazek2.jpg') no-repeat right bottom;
+    background-size: cover;
+    background-color: rgba(0, 0, 255, 0.6);
+}

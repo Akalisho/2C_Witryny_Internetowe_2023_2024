@@ -1,0 +1,18 @@
+.full-properties {
+    width: 500px;
+    height: 300px;
+    color: white;
+    text-align: center;
+    padding: 40px;
+    font-size: 18px;
+
+    /* Ustawienia tła z użyciem pełnych właściwości */
+    background-color: rgba(0, 128, 255, 0.5);      /* Kolor tła z przezroczystością */
+    background-image: url('obrazek2.jpg');         /* Obraz tła */
+    background-repeat: no-repeat;                   /* Bez powtórzeń */
+    background-position: center center;             /* Obraz wyśrodkowany */
+    background-size: cover;                         /* Dopasowanie obrazu do wielkości elementu */
+    background-attachment: fixed;                   /* Nieruchome tło */
+
+    background: rgba(0, 128, 255, 0.5) url('obrazek2.jpg') no-repeat center center / cover fixed;
+}

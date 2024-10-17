@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    height: 100vh;
+}
+
+/* Sekcje */
+.section {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+}
+
+/* Tło przewijające się razem z treścią */
+.scroll-background {
+    background: url('obrazek2.jpg') no-repeat center center scroll;
+    background-size: cover;
+}
+
+/* Tło nieruchome */
+.fixed-background {
+    background: url('obrazek2.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+/* Sekcja header */
+header {
+    background-color: rgba(0, 128, 255, 0.8);
+    color: white;
+    text-align: center;
+}
+
+/* Sekcja main */
+main {
+    background-color: rgba(0, 255, 128, 0.8);
+    color: black;
+}
+
+/* Sekcja footer */
+footer {
+    background-color: rgba(255, 128, 0, 0.8);
+    color: white;
+    text-align: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    height: 100vh;
+    background: url('obrazek2.jpg') no-repeat center center scroll;
+    background-size: cover;
+}
+
+/*
+lub
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    height: 100vh;
+    background: url('twoje_tlo.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+*/
