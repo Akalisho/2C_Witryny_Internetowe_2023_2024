@@ -1,0 +1,10 @@
+Zad.1
+Odp: B
+Zad.2 
+Odp: C
+Zad.3
+Odp: C
+Zad.4
+Odp: D
+Zad.5 
+Odp: A

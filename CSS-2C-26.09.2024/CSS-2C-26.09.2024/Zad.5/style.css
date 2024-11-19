@@ -1,0 +1,43 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.baner {
+    background-color: #cc9966;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 1.5em;
+}
+
+.menu {
+    background-color: #32cd32; 
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 1.2em;
+    float: left;
+    width: 20%; 
+    box-sizing: border-box;
+}
+
+.tresc {
+    background-color: #ffff33; 
+    text-align: center;
+    padding: 20px;
+    float: left;
+    width: 80%; 
+    box-sizing: border-box;
+    height: 300px; 
+}
+
+.stopka {
+    background-color: #990033; 
+    color: white;
+    text-align: center;
+    padding: 10px;
+    clear: both;
+}
