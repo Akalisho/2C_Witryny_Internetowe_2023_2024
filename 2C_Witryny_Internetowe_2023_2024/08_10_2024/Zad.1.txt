@@ -1,5 +1,0 @@
-						JavaScript 											PHP
-Rok powstania					1995												1994
-Główny autor					Brendan Eich											Rasmus Lerdorf
-Wykorzystywany po stronie klienta/serwera	Przeważnie po stronie klienta (browser), ale może być również po stronie serwera (Node.js)	Po stronie serwera
-Numer ostatniej wersji				ECMAScript 2023 (ES14)										8.3 (październik 2023)

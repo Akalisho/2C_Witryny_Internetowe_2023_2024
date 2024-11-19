@@ -1,5 +1,0 @@
-- HTML 5 usunął kilka przestarzałych elementów, takich jak <font>, <center>, <strike>, zastępując je bardziej semantycznymi rozwiązaniami.
-- HTML 5 wprowadził nowe semantyczne elementy, takie jak <header>, <nav>, <article>, <section>
-- W HTML 5 pojawiły się nowe atrybuty formularzy, takie jak placeholder, required, pattern, autofocus, które ułatwiają zarządzanie i sprawdzanie danych wejściowych w formularzach.
-
-
