@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Powtarzanie obrazu tła</title>
+    <style>
+        .banner {
+            width: 500px;
+            height: 300px;
+            background-image: url('obrazek.jpg'); /* Podmień 'obrazek.jpg' na ścieżkę do Twojego obrazu */
+            border: 1px solid black;
+            margin-bottom: 20px;
+        }
+        .repeat-x {
+            background-repeat: repeat-x; /* Powtarzanie tylko w poziomie */
+        }
+        .repeat-y {
+            background-repeat: repeat-y; /* Powtarzanie tylko w pionie */
+        }
+        .no-repeat {
+            background-repeat: no-repeat; /* Brak powtarzania */
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Powtarzanie obrazu tła</h2>
+
+    <div class="banner repeat-x">
+        <p>Obrazek powtarza się tylko w poziomie.</p>
+    </div>
+
+    <div class="banner repeat-y">
+        <p>Obrazek powtarza się tylko w pionie.</p>
+    </div>
+
+    <div class="banner no-repeat">
+        <p>Obrazek nie powtarza się wcale.</p>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Sekcja z gradientowym tłem i obrazem */
+.gradient-background {
+    height: 100vh; /* Wysokość sekcji na pełną wysokość okna przeglądarki */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+    /* Ustawienie gradientu jako tło */
+    background-image: linear-gradient(to bottom, rgba(0, 128, 255, 0.7), rgba(255, 0, 128, 0.7)), 
+                      url('obrazek.jpg'); /* Półprzezroczysty obraz tła */
+    
+    background-size: cover; /* Obraz tła wypełnia sekcję */
+    background-position: center; /* Obraz tła jest wyśrodkowany */
+    background-blend-mode: overlay; /* Ustawienie trybu mieszania tła */
+    color: white; /* Kolor tekstu */
+}
+
+/* Stylizacja tekstu */
+.gradient-background h1 {
+    font-size: 3rem;
+    margin: 0;
+}
+
+.gradient-background p {
+    font-size: 1.5rem;
+}

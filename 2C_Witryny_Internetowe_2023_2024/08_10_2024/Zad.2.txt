@@ -1,0 +1,10 @@
+Wady i zalety wykonywania skryptów po stronie klienta:
+
+Zalety:
+Mniejsze obciążenie serwera, ponieważ przetwarzanie odbywa się na komputerze użytkownika.
+Szybsze reakcje interfejsu użytkownika, zwłaszcza w przypadku prostych zadań.
+Możliwość pracy w trybie offline (np. w aplikacjach PWA).
+Wady:
+Zależy od przeglądarki użytkownika i jej ustawień (niektóre skrypty mogą być zablokowane).
+Brak kontroli nad urządzeniem użytkownika – słabsze komputery mogą wolniej wykonywać skrypty.
+Potencjalne zagrożenia bezpieczeństwa, jeśli kod nie jest odpowiednio zabezpieczony.

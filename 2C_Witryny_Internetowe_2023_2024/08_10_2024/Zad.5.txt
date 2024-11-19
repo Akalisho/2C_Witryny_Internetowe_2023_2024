@@ -1,0 +1,11 @@
+Algorytm działa w następujący sposób:
+
+Użytkownik wprowadza dwie liczby: 𝑎  i  𝑏
+Obliczana jest suma: 𝑆 = 𝑎 + 𝑏
+Algorytm sprawdza, czy: 𝑎 < 𝑏
+Jeśli: 
+𝑎 jest mniejsze od 𝑏
+wypisywane jest 𝑎
+w przeciwnym wypadku wypisywane jest 𝑏
+Program kończy swoje działanie.
+Ten algorytm służy do porównania dwóch liczb i wyświetlenia mniejszej z nich.
