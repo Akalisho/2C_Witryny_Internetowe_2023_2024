@@ -1,7 +1,0 @@
-Symbol jednostki	 Nazwa jednostki	Rodzaj jednostki	Opis zastosowania
-px			piksel			względna	Jednostka ta określa ilość pojedynczych punktów widocznych na ekranie monitora.
-em			em			względna	Określa rozmiar elementu względem aktualnego rozmiaru czcionki rodzica. 1 em to równowartość aktualnej wielkości czcionki.
-pc			pica			bezwzględna	Jednostka typograficzna równa 12 punktom (pt), używana głównie w druku.
-pt			punkt			bezwzględna	Jednostka typograficzna odpowiadająca 1/72 cala, stosowana głównie w określaniu wielkości czcionki w druku.
-%			procent			względna	Określa wielkość w procentach, zależną od wielkości elementu nadrzędnego.
-in			cal			bezwzględna	Jednostka liniowa odpowiadająca 2,54 cm, stosowana w druku i projektowaniu.
